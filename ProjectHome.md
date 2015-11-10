@@ -1,0 +1,5 @@
+Algunos usuarios Off Line (sin conexión a Internet) de GNU/Linux, específicamente Ubuntu, tienen muchos problemas a la hora de descargar nuevos paquetes, por el hecho de que algunos poseen muchas dependencias, lo que hace la descarga de software un verdadero dolor de cabeza.
+
+Ubuntu Off Line en un programa hecho en AutoIt (http://www.autoitscript.com/) que descarga los paquetes a partir de un Script de descarga hecho por Synaptic. Así solo tendremos que generar el Script, ir a algún lugar donde tengamos conexión a Internet (por lo general la mayoría de estos usan Windows), le indicamos a Ubuntu Off Line algunos parámetros y nos descargara automáticamente los paquetes señalados.
+
+Actualmente es una Beta, ya que aún se encuentra con errores, pero ya cumple su función principal. Me gustaría que este programa cuente con su propia base de datos sobre cuales son las dependencias de cada paquete y así lograr una mayor independencia, además me gustaría escribirlo en otro lenguaje.

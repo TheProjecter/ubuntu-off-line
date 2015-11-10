@@ -1,0 +1,11 @@
+# **AutoIt** #
+
+Es un lenguaje script centrado en la automatización de procesos dentro de Windows.
+
+
+**_Detalles_**
+
+Posee:
+  * Su propia **Licencia** (http://www.autoitscript.com/autoit3/docs/license.htm)
+  * Controles para manejar Ventanas y Mouse
+  * Para más información visita http://www.autoitscript.com/
